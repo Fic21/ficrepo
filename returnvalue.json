@@ -1,0 +1,9 @@
+{
+	"Name":"Hayatul Fikra",
+	"Age":22,
+	"Address":"Jl.  KH.  Ahmad dahlan I RT. 1 RW. 1 no.  6C,  kukusan,  beji,  depok",
+	"Hobbies":["Badminton","Update New Technology","Swimming"],
+	"Is_married":false,
+	"List_School":{"SD":["SDN 23 Koto Baru",2003,2009,null],"SMP":["SMPN 3 Tanung Raya",2009,2012,null],"SMK":["SMKN 1 Bukittinggi",2012,2015,"Teknik Elektro"],"College":["Politeknik Negeri Padang",2016,2019,"Teknik Elektro"]},
+	"Skills":{"Electronics Engineering":}
+}
