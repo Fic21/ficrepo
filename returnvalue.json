@@ -4,6 +4,22 @@
 	"Address":"Jl.  KH.  Ahmad dahlan I RT. 1 RW. 1 no.  6C,  kukusan,  beji,  depok",
 	"Hobbies":["Badminton","Update New Technology","Swimming"],
 	"Is_married":false,
-	"List_School":{"SD":["SDN 23 Koto Baru",2003,2009,null],"SMP":["SMPN 3 Tanung Raya",2009,2012,null],"SMK":["SMKN 1 Bukittinggi",2012,2015,"Teknik Elektro"],"College":["Politeknik Negeri Padang",2016,2019,"Teknik Elektro"]},
-	"Skills":{"Electronics Engineering":}
+	"List_School":[
+			{"Name":"SD Negeri 23 Koto Baru","Year_in":2003,"Year_out":2009,"major":null},
+			{"Name":"SMP Negeri 3 Tanjung Raya","Year_in":2009,"Year_out":2012,"major":null},
+			{"Name":"SMK Negeri 1 Bukittinggi","Year_in":2012,"Year_out":2015,"major":"Teknik Electronika Industri"},
+			{"Name":"Politeknik Negeri Padang","Year_in":2016,"Year_out":2019,"major":"Teknik Elektronika"},
+
+		],
+	"Skills":[
+			{"Skill name":"Automation","Level":"expert"},
+			{"Skill name":"C/C++","Level":"Advance"},
+			{"Skill name":"HTML","Level":"Advance"},
+			{"Skill name":"CSS","Level":"Advance"},
+			{"Skill name":"JavaScript","Level":"Beginer"},
+			{"Skill name":"PHP","Level":"Beginer"},
+			{"Skill name":"Arduino","Level":"expert"},
+			{"Skill name":"Python","Level":"Beginer"},
+			{"Skill name":"SQL","Level":"Beginer"},
+		]
 }
